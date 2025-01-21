@@ -1,6 +1,6 @@
 # Projeto Robô Empurrador de Peso
 
-Este repositório contém o código e a documentação para o projeto de um robô capaz de empurrar um peso. O robô utiliza sensores para monitorar o ambiente e é controlado por uma placa ESP32, responsável por processar os dados e enviar informações ao servidor.
+Este repositório foi criado por alunos da Unb referente a materia "Projeto Integrador de Engenharia 1" e contém o código e a documentação para o projeto de um robô capaz de empurrar um peso. O robô utiliza sensores para monitorar o ambiente e é controlado por uma placa ESP32, responsável por processar os dados e enviar informações ao servidor.
 
 ## Objetivo do Projeto
 
